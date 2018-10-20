@@ -1,20 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/abarr054/extracredit/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Katakuzi twitch promotion
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
 # Header 1
+This a extra credit project to try and learn how to build a webpage on Githumb.
 ## Header 2
+This will with time hopefully be converted to a promotion webpage for my twitch channel cause who wouldn't want to just play video games for a living am I right? 
 ### Header 3
-
+To conclude this might may seem basic at first but with time I hope to improve and clean it and maybe obtain a domain for it.
 - Bulleted
 - List
 
@@ -23,7 +17,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Twitch](https://www.twitch.tv/katakuzi) and ![Logo](E:\info extra credit\extracredit1)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
